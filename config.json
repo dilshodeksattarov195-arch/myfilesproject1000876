@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevarse",
+        "uuid": 7951452,
+        "checksum": "54e7cv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
